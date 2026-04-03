@@ -2,8 +2,8 @@
 
 **EasyQuiz** is a lightweight, cross-platform, and extensible quiz application built with C# and .NET 8. It supports loading quizzes from JSON files, features a clean architecture based on Dependency Injection, and abstracts input/output operations to work seamlessly with any interface — console, GUI, Telegram, web applications, and more.
 
-[![.NET](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-12.0-green)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-10.0-blue)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-14.0-green)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
 
